@@ -4,7 +4,7 @@ import time
 pencolor('purple')
 bgcolor('black')
 penup()
-goto(0, 200)
+goto(-50, 50)
 pendown()
 speed(0)
 hideturtle()
