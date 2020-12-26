@@ -8,7 +8,7 @@ goto(0, 200)
 pendown()
 speed(0)
 hideturtle()
-time.sleep(5)
+#time.sleep(5)
 while True:
     pencolor('white')
     forward(20)
